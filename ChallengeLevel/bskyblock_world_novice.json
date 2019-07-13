@@ -1,0 +1,34 @@
+{
+  "uniqueId": "bskyblock_world_novice",
+  "friendlyName": "Novice",
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: ORANGE_CONCRETE\n",
+  "world": "bskyblock_world",
+  "order": 1,
+  "waiverAmount": 3,
+  "unlockMessage": "",
+  "rewardText": "Small reward for completing all Novice challenges.",
+  "rewardItems": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: GRASS_BLOCK\n"
+  ],
+  "rewardExperience": 1395,
+  "rewardMoney": 100,
+  "rewardCommands": [
+    "effect give [player] speed 600"
+  ],
+  "challenges": [
+    "bskyblock_world_applecollector",
+    "bskyblock_world_pumpkinfarm",
+    "bskyblock_world_melonfarm",
+    "bskyblock_world_chisedmaker",
+    "bskyblock_world_stonesmelter",
+    "bskyblock_world_mushroomfarm",
+    "bskyblock_world_treefarm",
+    "bskyblock_world_melonmaker",
+    "bskyblock_world_cactusfarm",
+    "bskyblock_world_papermaker",
+    "bskyblock_world_crackedmaker",
+    "bskyblock_world_cobblegenerator",
+    "bskyblock_world_pumpkinmaker",
+    "bskyblock_world_sugarcanefarm"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "uniqueId": "bskyblock_world_sugarcanefarm",
+  "friendlyName": "Sugarcane farm",
+  "deployed": true,
+  "description": [
+    "Create simple sugarcane farm"
+  ],
+  "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: SUGAR_CANE\n",
+  "order": 2,
+  "challengeType": "ISLAND",
+  "environment": [],
+  "removeWhenCompleted": true,
+  "level": "bskyblock_world_novice",
+  "requiredPermissions": [],
+  "requiredBlocks": {
+    "SUGAR_CANE": 32
+  },
+  "removeBlocks": false,
+  "requiredEntities": {},
+  "removeEntities": false,
+  "requiredItems": [],
+  "takeItems": true,
+  "requiredExperience": 0,
+  "takeExperience": false,
+  "requiredMoney": 0,
+  "takeMoney": false,
+  "requiredIslandLevel": 0,
+  "searchRadius": 10,
+  "rewardText": "This sand will allow to increase your farm size.",
+  "rewardItems": [
+    "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: SAND\n  amount: 16\n"
+  ],
+  "rewardExperience": 50,
+  "rewardMoney": 0,
+  "rewardCommands": [],
+  "repeatable": false,
+  "repeatRewardText": "",
+  "maxTimes": 0,
+  "repeatExperienceReward": 0,
+  "repeatItemReward": [],
+  "repeatMoneyReward": 0,
+  "repeatRewardCommands": []
+}
