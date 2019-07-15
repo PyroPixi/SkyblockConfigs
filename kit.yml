@@ -1,186 +1,208 @@
 Kits:
   default:
-    delay: 0
+    delay: 43200
+    title: '&8&lDefault'
     price: 0.0
     hidden: false
     animation: NONE
+    displayItem: GRAY_CONCRETE
     items:
-    - '{id:"minecraft:leather_helmet",Count:1b,tag:{display:{Name:"{\"text\":\"§8§lDefault§l
-      §fHelmet\"}"}}}'
-    - '{id:"minecraft:leather_chestplate",Count:1b,tag:{display:{Name:"{\"text\":\"§8§lDefault§l
-      §fChestplate\"}"}}}'
-    - '{id:"minecraft:leather_leggings",Count:1b,tag:{display:{Name:"{\"text\":\"§8§lDefault§l
-      §fLeggings\"}"}}}'
-    - '{id:"minecraft:leather_boots",Count:1b,tag:{display:{Name:"{\"text\":\"§8§lDefault§l
-      §fBoots\"}"}}}'
-    - '{id:"minecraft:stone_pickaxe",Count:1b,tag:{display:{Name:"{\"text\":\"§8§lDefault§l
-      §fPickaxe\"}"}}}'
-    - '{id:"minecraft:stone_axe",Count:1b,tag:{display:{Name:"{\"text\":\"§8§lDefault§l
-      §fAxe\"}"}}}'
-    - '{id:"minecraft:stone_shovel",Count:1b,tag:{display:{Name:"{\"text\":\"§8§lDefault§l
-      §fShovel\"}"}}}'
-    - '{id:"minecraft:stone_hoe",Count:1b,tag:{display:{Name:"{\"text\":\"§8§lDefault§l
-      §fHoe\"}"}}}'
-    - '{id:"minecraft:stone_sword",Count:1b,tag:{display:{Name:"{\"text\":\"§8§lDefault§l
-      §fSword\"}"}}}'
+    - '{id:"minecraft:leather_helmet",Count:1b,tag:{display:{Name:"{\"text\":\"Â§8Â§lDefaultÂ§l
+      Â§fHelmet\"}"}}}'
+    - '{id:"minecraft:leather_chestplate",Count:1b,tag:{display:{Name:"{\"text\":\"Â§8Â§lDefaultÂ§l
+      Â§fChestplate\"}"}}}'
+    - '{id:"minecraft:leather_leggings",Count:1b,tag:{display:{Name:"{\"text\":\"Â§8Â§lDefaultÂ§l
+      Â§fLeggings\"}"}}}'
+    - '{id:"minecraft:leather_boots",Count:1b,tag:{display:{Name:"{\"text\":\"Â§8Â§lDefaultÂ§l
+      Â§fBoots\"}"}}}'
+    - '{id:"minecraft:stone_pickaxe",Count:1b,tag:{display:{Name:"{\"text\":\"Â§8Â§lDefaultÂ§l
+      Â§fPickaxe\"}"}}}'
+    - '{id:"minecraft:stone_axe",Count:1b,tag:{display:{Name:"{\"text\":\"Â§8Â§lDefaultÂ§l
+      Â§fAxe\"}"}}}'
+    - '{id:"minecraft:stone_shovel",Count:1b,tag:{display:{Name:"{\"text\":\"Â§8Â§lDefaultÂ§l
+      Â§fShovel\"}"}}}'
+    - '{id:"minecraft:stone_hoe",Count:1b,tag:{display:{Name:"{\"text\":\"Â§8Â§lDefaultÂ§l
+      Â§fHoe\"}"}}}'
+    - '{id:"minecraft:stone_sword",Count:1b,tag:{display:{Name:"{\"text\":\"Â§8Â§lDefaultÂ§l
+      Â§fSword\"}"}}}'
     - '{id:"minecraft:cobblestone",Count:8b}'
     - '{id:"minecraft:grass_block",Count:2b}'
     - '{id:"minecraft:sand",Count:2b}'
     - '{id:"minecraft:cooked_beef",Count:8b}'
+    - '{id:"minecraft:oak_log",Count:4b}'
+    - '{id:"minecraft:gravel",Count:4b}'
   vip:
-    delay: 0
+    delay: 604800
     title: '&5&lVIP'
     price: 0.0
     hidden: false
     animation: NONE
+    displayItem: PURPLE_CONCRETE
     items:
-    - '{id:"minecraft:chainmail_helmet",Count:1b,tag:{display:{Name:"{\"text\":\"§5§lVIP§l
-      §fHelmet\"}"}}}'
-    - '{id:"minecraft:chainmail_chestplate",Count:1b,tag:{display:{Name:"{\"text\":\"§5§lVIP§l
-      §fChestplate\"}"}}}'
-    - '{id:"minecraft:chainmail_leggings",Count:1b,tag:{display:{Name:"{\"text\":\"§5§lVIP§l
-      §fLeggings\"}"}}}'
-    - '{id:"minecraft:chainmail_boots",Count:1b,tag:{display:{Name:"{\"text\":\"§5§lVIP§l
-      §fBoots\"}"}}}'
-    - '{id:"minecraft:iron_pickaxe",Count:1b,tag:{display:{Name:"{\"text\":\"§5§lVIP§l
-      §fPickaxe\"}"}}}'
-    - '{id:"minecraft:iron_axe",Count:1b,tag:{display:{Name:"{\"text\":\"§5§lVIP§l
-      §fAxe\"}"}}}'
-    - '{id:"minecraft:iron_shovel",Count:1b,tag:{display:{Name:"{\"text\":\"§5§lVIP§l
-      §fShovel\"}"}}}'
-    - '{id:"minecraft:stone_hoe",Count:1b,tag:{display:{Name:"{\"text\":\"§5§lVIP§l
-      §fHoe\"}"},Enchantments:[{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:iron_sword",Count:1b,tag:{display:{Name:"{\"text\":\"§5§lVIP§l
-      §fSword\"}"}}}'
-    - '{id:"minecraft:bow",Count:1b,tag:{display:{Name:"{\"text\":\"§5§lVIP§l §fBow\"}"},Enchantments:[{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:chainmail_helmet",Count:1b,tag:{display:{Name:"{\"text\":\"Â§5Â§lVIPÂ§l
+      Â§fHelmet\"}"}}}'
+    - '{id:"minecraft:chainmail_chestplate",Count:1b,tag:{display:{Name:"{\"text\":\"Â§5Â§lVIPÂ§l
+      Â§fChestplate\"}"}}}'
+    - '{id:"minecraft:chainmail_leggings",Count:1b,tag:{display:{Name:"{\"text\":\"Â§5Â§lVIPÂ§l
+      Â§fLeggings\"}"}}}'
+    - '{id:"minecraft:chainmail_boots",Count:1b,tag:{display:{Name:"{\"text\":\"Â§5Â§lVIPÂ§l
+      Â§fBoots\"}"}}}'
+    - '{id:"minecraft:iron_pickaxe",Count:1b,tag:{display:{Name:"{\"text\":\"Â§5Â§lVIPÂ§l
+      Â§fPickaxe\"}"}}}'
+    - '{id:"minecraft:iron_axe",Count:1b,tag:{display:{Name:"{\"text\":\"Â§5Â§lVIPÂ§l
+      Â§fAxe\"}"}}}'
+    - '{id:"minecraft:iron_shovel",Count:1b,tag:{display:{Name:"{\"text\":\"Â§5Â§lVIPÂ§l
+      Â§fShovel\"}"}}}'
+    - '{id:"minecraft:stone_hoe",Count:1b,tag:{display:{Name:"{\"text\":\"Â§5Â§lVIPÂ§l
+      Â§fHoe\"}"},Enchantments:[{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:iron_sword",Count:1b,tag:{display:{Name:"{\"text\":\"Â§5Â§lVIPÂ§l
+      Â§fSword\"}"}}}'
+    - '{id:"minecraft:bow",Count:1b,tag:{display:{Name:"{\"text\":\"Â§5Â§lVIPÂ§l Â§fBow\"}"},Enchantments:[{lvl:1s,id:"minecraft:unbreaking"}]}}'
     - '{id:"minecraft:arrow",Count:16b}'
     - '{id:"minecraft:cobblestone",Count:16b}'
     - '{id:"minecraft:grass_block",Count:4b}'
     - '{id:"minecraft:sand",Count:4b}'
     - '{id:"minecraft:cooked_beef",Count:16b}'
+    - '{id:"minecraft:oak_log",Count:8b}'
+    - '{id:"minecraft:gravel",Count:4b}'
   pilot:
-    delay: 0
+    delay: 604800
+    title: '&a&lPilot'
     price: 0.0
     hidden: false
     animation: NONE
+    displayItem: LIME_CONCRETE
     items:
-    - '{id:"minecraft:iron_helmet",Count:1b,tag:{display:{Name:"{\"text\":\"§6§lPilot§l
-      §fHelmet\"}"},Enchantments:[{lvl:1s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:iron_chestplate",Count:1b,tag:{display:{Name:"{\"text\":\"§6§lPilot§l
-      §fChestplate\"}"},Enchantments:[{lvl:1s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:iron_leggings",Count:1b,tag:{display:{Name:"{\"text\":\"§6§lPilot§l
-      §fLeggings\"}"},Enchantments:[{lvl:1s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:iron_boots",Count:1b,tag:{display:{Name:"{\"text\":\"§6§lPilot§l
-      §fBoots\"}"},Enchantments:[{lvl:1s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:iron_pickaxe",Count:1b,tag:{display:{Name:"{\"text\":\"§6§lPilot§l
-      §fPickaxe\"}"},Enchantments:[{lvl:1s,id:"minecraft:efficiency"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:iron_axe",Count:1b,tag:{display:{Name:"{\"text\":\"§6§lPilot§l
-      §fAxe\"}"},Enchantments:[{lvl:1s,id:"minecraft:efficiency"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:iron_shovel",Count:1b,tag:{display:{Name:"{\"text\":\"§6§lPilot§l
-      §fShovel\"}"},Enchantments:[{lvl:1s,id:"minecraft:efficiency"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:iron_hoe",Count:1b,tag:{display:{Name:"{\"text\":\"§6§lPilot§l
-      §fHoe\"}"},Enchantments:[{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:iron_sword",Count:1b,tag:{display:{Name:"{\"text\":\"§6§lPilot§l
-      §fSword\"}"},Enchantments:[{lvl:1s,id:"minecraft:sharpness"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:bow",Count:1b,tag:{display:{Name:"{\"text\":\"§6§lPilot§l §fBow\"}"},Enchantments:[{lvl:1s,id:"minecraft:power"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:iron_helmet",Count:1b,tag:{display:{Name:"{\"text\":\"Â§aÂ§lPilot
+      Â§fHelmet\"}"},Enchantments:[{lvl:1s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:iron_chestplate",Count:1b,tag:{display:{Name:"{\"text\":\"Â§aÂ§lPilot
+      Â§fChestplate\"}"},Enchantments:[{lvl:1s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:iron_leggings",Count:1b,tag:{display:{Name:"{\"text\":\"Â§aÂ§lPilot
+      Â§fLeggings\"}"},Enchantments:[{lvl:1s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:iron_boots",Count:1b,tag:{display:{Name:"{\"text\":\"Â§aÂ§lPilot
+      Â§fBoots\"}"},Enchantments:[{lvl:1s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:iron_pickaxe",Count:1b,tag:{display:{Name:"{\"text\":\"Â§aÂ§lPilot
+      Â§fPickaxe\"}"},Enchantments:[{lvl:1s,id:"minecraft:efficiency"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:iron_axe",Count:1b,tag:{display:{Name:"{\"text\":\"Â§aÂ§lPilot
+      Â§fAxe\"}"},Enchantments:[{lvl:1s,id:"minecraft:efficiency"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:iron_shovel",Count:1b,tag:{display:{Name:"{\"text\":\"Â§aÂ§lPilot
+      Â§fShovel\"}"},Enchantments:[{lvl:1s,id:"minecraft:efficiency"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:iron_hoe",Count:1b,tag:{display:{Name:"{\"text\":\"Â§aÂ§lPilot
+      Â§fHoe\"}"},Enchantments:[{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:iron_sword",Count:1b,tag:{display:{Name:"{\"text\":\"Â§aÂ§lPilot
+      Â§fSword\"}"},Enchantments:[{lvl:1s,id:"minecraft:sharpness"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:bow",Count:1b,tag:{display:{Name:"{\"text\":\"Â§aÂ§lPilot Â§fBow\"}"},Enchantments:[{lvl:1s,id:"minecraft:power"},{lvl:2s,id:"minecraft:unbreaking"}]}}'
     - '{id:"minecraft:arrow",Count:32b}'
     - '{id:"minecraft:cobblestone",Count:32b}'
     - '{id:"minecraft:grass_block",Count:8b}'
     - '{id:"minecraft:sand",Count:8b}'
     - '{id:"minecraft:cooked_beef",Count:32b}'
+    - '{id:"minecraft:oak_log",Count:16b}'
+    - '{id:"minecraft:gravel",Count:8b}'
   ace:
-    delay: 0
+    delay: 604800
+    title: '&6&lAce'
     price: 0.0
     hidden: false
     animation: NONE
+    displayItem: YELLOW_CONCRETE
     items:
-    - '{id:"minecraft:iron_helmet",Count:1b,tag:{display:{Name:"{\"text\":\"§b§lAce§l
-      §fHelmet\"}"},Enchantments:[{lvl:2s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:iron_chestplate",Count:1b,tag:{display:{Name:"{\"text\":\"§b§lAce§l
-      §fChestplate\"}"},Enchantments:[{lvl:2s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:iron_leggings",Count:1b,tag:{display:{Name:"{\"text\":\"§b§lAce§l
-      §fLeggings\"}"},Enchantments:[{lvl:2s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:iron_boots",Count:1b,tag:{display:{Name:"{\"text\":\"§b§lAce§l
-      §fBoots\"}"},Enchantments:[{lvl:2s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:iron_pickaxe",Count:1b,tag:{display:{Name:"{\"text\":\"§b§lAce§l
-      §fPickaxe\"}"},Enchantments:[{lvl:2s,id:"minecraft:efficiency"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:iron_axe",Count:1b,tag:{display:{Name:"{\"text\":\"§b§lAce§l
-      §fAxe\"}"},Enchantments:[{lvl:2s,id:"minecraft:efficiency"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:iron_shovel",Count:1b,tag:{display:{Name:"{\"text\":\"§b§lAce§l
-      §fShovel\"}"},Enchantments:[{lvl:2s,id:"minecraft:efficiency"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:iron_hoe",Count:1b,tag:{display:{Name:"{\"text\":\"§b§lAce§l
-      §fHoe\"}"},Enchantments:[{lvl:2s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:iron_sword",Count:1b,tag:{display:{Name:"{\"text\":\"§b§lAce§l
-      §fSword\"}"},Enchantments:[{lvl:2s,id:"minecraft:sharpness"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:fishing_rod",Count:1b,tag:{display:{Name:"{\"text\":\"§b§lAce§l
-      §fFishing §fRod\"}"},Enchantments:[{lvl:1s,id:"minecraft:luck_of_the_sea"},{lvl:1s,id:"minecraft:lure"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:bow",Count:1b,tag:{display:{Name:"{\"text\":\"§b§lAce§l §fBow\"}"},Enchantments:[{lvl:1s,id:"minecraft:sharpness"},{lvl:2s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:iron_helmet",Count:1b,tag:{display:{Name:"{\"text\":\"Â§6Â§lAce
+      Â§fHelmet\"}"},Enchantments:[{lvl:2s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:iron_chestplate",Count:1b,tag:{display:{Name:"{\"text\":\"Â§6Â§lAce
+      Â§fChestplate\"}"},Enchantments:[{lvl:2s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:iron_leggings",Count:1b,tag:{display:{Name:"{\"text\":\"Â§6Â§lAce
+      Â§fLeggings\"}"},Enchantments:[{lvl:2s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:iron_boots",Count:1b,tag:{display:{Name:"{\"text\":\"Â§6Â§lAce
+      Â§fBoots\"}"},Enchantments:[{lvl:2s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:iron_pickaxe",Count:1b,tag:{display:{Name:"{\"text\":\"Â§6Â§lAce
+      Â§fPickaxe\"}"},Enchantments:[{lvl:2s,id:"minecraft:efficiency"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:iron_axe",Count:1b,tag:{display:{Name:"{\"text\":\"Â§6Â§lAce Â§fAxe\"}"},Enchantments:[{lvl:2s,id:"minecraft:efficiency"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:iron_shovel",Count:1b,tag:{display:{Name:"{\"text\":\"Â§6Â§lAce
+      Â§fShovel\"}"},Enchantments:[{lvl:2s,id:"minecraft:efficiency"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_hoe",Count:1b,tag:{display:{Name:"{\"text\":\"Â§6Â§lAce
+      Â§fHoe\"}"},Enchantments:[{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:iron_sword",Count:1b,tag:{display:{Name:"{\"text\":\"Â§6Â§lAce
+      Â§fSword\"}"},Enchantments:[{lvl:2s,id:"minecraft:sharpness"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:fishing_rod",Count:1b,tag:{display:{Name:"{\"text\":\"Â§6Â§lAce
+      Â§fFishing Rod\"}"},Enchantments:[{lvl:1s,id:"minecraft:luck_of_the_sea"},{lvl:1s,id:"minecraft:lure"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:bow",Count:1b,tag:{display:{Name:"{\"text\":\"Â§6Â§lAce Â§fBow\"}"},Enchantments:[{lvl:2s,id:"minecraft:power"},{lvl:2s,id:"minecraft:unbreaking"}]}}'
     - '{id:"minecraft:arrow",Count:48b}'
     - '{id:"minecraft:cobblestone",Count:48b}'
     - '{id:"minecraft:grass_block",Count:16b}'
     - '{id:"minecraft:sand",Count:16b}'
     - '{id:"minecraft:cooked_beef",Count:32b}'
+    - '{id:"minecraft:oak_log",Count:24b}'
+    - '{id:"minecraft:gravel",Count:16b}'
+    - '{id:"minecraft:iron_ingot",Count:3b}'
   admiral:
-    delay: 0
+    delay: 604800
+    title: '&e&lAdmiral'
     price: 0.0
     hidden: false
     animation: NONE
+    displayItem: YELLOW_CONCRETE_POWDER
     items:
-    - '{id:"minecraft:diamond_helmet",Count:1b,tag:{display:{Name:"{\"text\":\"§a§lAdmiral§l
-      §fHelmet\"}"}}}'
-    - '{id:"minecraft:diamond_chestplate",Count:1b,tag:{display:{Name:"{\"text\":\"§a§lAdmiral§l
-      §fChestplate\"}"}}}'
-    - '{id:"minecraft:diamond_leggings",Count:1b,tag:{display:{Name:"{\"text\":\"§a§lAdmiral§l
-      §fLeggings\"}"}}}'
-    - '{id:"minecraft:diamond_boots",Count:1b,tag:{display:{Name:"{\"text\":\"§a§lAdmiral§l
-      §fBoots\"}"}}}'
-    - '{id:"minecraft:diamond_pickaxe",Count:1b,tag:{display:{Name:"{\"text\":\"§a§lAdmiral§l
-      §fPickaxe\"}"},Enchantments:[{lvl:2s,id:"minecraft:efficiency"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:diamond_axe",Count:1b,tag:{display:{Name:"{\"text\":\"§a§lAdmiral§l
-      §fAxe\"}"},Enchantments:[{lvl:2s,id:"minecraft:efficiency"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:diamond_shovel",Count:1b,tag:{display:{Name:"{\"text\":\"§a§lAdmiral§l
-      §fShovel\"}"},Enchantments:[{lvl:2s,id:"minecraft:efficiency"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:diamond_hoe",Count:1b,tag:{display:{Name:"{\"text\":\"§a§lAdmiral§l
-      §fHoe\"}"},Enchantments:[{lvl:2s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:diamond_sword",Count:1b,tag:{display:{Name:"{\"text\":\"§a§lAdmiral§l
-      §fSword\"}"},Enchantments:[{lvl:2s,id:"minecraft:sharpness"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:fishing_rod",Count:1b,tag:{display:{Name:"{\"text\":\"§a§lAdmiral§l
-      §fFishing Rod\"}"},Enchantments:[{lvl:2s,id:"minecraft:luck_of_the_sea"},{lvl:2s,id:"minecraft:lure"},{lvl:2s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:bow",Count:1b,tag:{display:{Name:"{\"text\":\"§a§lAdmiral§l
-      §fBow\"}"},Enchantments:[{lvl:2s,id:"minecraft:power"},{lvl:2s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_helmet",Count:1b,tag:{display:{Name:"{\"text\":\"Â§eÂ§lAdmiral
+      Â§fHelmet\"}"},Enchantments:[{lvl:1s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_chestplate",Count:1b,tag:{display:{Name:"{\"text\":\"Â§eÂ§lAdmiral
+      Â§fChestplate\"}"},Enchantments:[{lvl:1s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_leggings",Count:1b,tag:{display:{Name:"{\"text\":\"Â§eÂ§lAdmiral
+      Â§fLeggings\"}"},Enchantments:[{lvl:1s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_boots",Count:1b,tag:{display:{Name:"{\"text\":\"Â§eÂ§lAdmiral
+      Â§fBoots\"}"},Enchantments:[{lvl:1s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_pickaxe",Count:1b,tag:{display:{Name:"{\"text\":\"Â§eÂ§lAdmiral
+      Â§fPickaxe\"}"},Enchantments:[{lvl:2s,id:"minecraft:efficiency"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_axe",Count:1b,tag:{display:{Name:"{\"text\":\"Â§eÂ§lAdmiral
+      Â§fAxe\"}"},Enchantments:[{lvl:2s,id:"minecraft:efficiency"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_shovel",Count:1b,tag:{display:{Name:"{\"text\":\"Â§eÂ§lAdmiral
+      Â§fShovel\"}"},Enchantments:[{lvl:2s,id:"minecraft:efficiency"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_hoe",Count:1b,tag:{display:{Name:"{\"text\":\"Â§eÂ§lAdmiral
+      Â§fHoe\"}"},Enchantments:[{lvl:2s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_sword",Count:1b,tag:{display:{Name:"{\"text\":\"Â§eÂ§lAdmiral
+      Â§fSword\"}"},Enchantments:[{lvl:2s,id:"minecraft:sharpness"},{lvl:1s,id:"minecraft:sweeping"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:fishing_rod",Count:1b,tag:{display:{Name:"{\"text\":\"Â§eÂ§lAdmiral
+      Â§fFishing Rod\"}"},Enchantments:[{lvl:2s,id:"minecraft:luck_of_the_sea"},{lvl:2s,id:"minecraft:lure"},{lvl:2s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:bow",Count:1b,tag:{display:{Name:"{\"text\":\"Â§eÂ§lAdmiral Â§fBow\"}"},Enchantments:[{lvl:2s,id:"minecraft:power"},{lvl:3s,id:"minecraft:unbreaking"}]}}'
     - '{id:"minecraft:arrow",Count:64b}'
     - '{id:"minecraft:cobblestone",Count:64b}'
     - '{id:"minecraft:grass_block",Count:32b}'
     - '{id:"minecraft:sand",Count:32b}'
     - '{id:"minecraft:cooked_beef",Count:48b}'
+    - '{id:"minecraft:oak_log",Count:32b}'
+    - '{id:"minecraft:gravel",Count:32b}'
+    - '{id:"minecraft:golden_apple",Count:1b}'
+    - '{id:"minecraft:iron_ingot",Count:6b}'
+    - '{id:"minecraft:gold_ingot",Count:3b}'
   skylord:
-    delay: 0
+    delay: 604800
+    title: '&b&lSkylord'
     price: 0.0
     hidden: false
     animation: NONE
+    displayItem: BLUE_ICE
     items:
-    - '{id:"minecraft:diamond_helmet",Count:1b,tag:{display:{Name:"{\"text\":\"§9§lSkylord§l
-      §fHelmet\"}"},Enchantments:[{lvl:1s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:diamond_chestplate",Count:1b,tag:{display:{Name:"{\"text\":\"§9§lSkylord§l
-      §fChestplate\"}"},Enchantments:[{lvl:1s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:diamond_leggings",Count:1b,tag:{display:{Name:"{\"text\":\"§9§lSkylord§l
-      §fLeggings\"}"},Enchantments:[{lvl:1s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:diamond_boots",Count:1b,tag:{display:{Name:"{\"text\":\"§9§lSkylord§l
-      §fBoots\"}"},Enchantments:[{lvl:1s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:diamond_pickaxe",Count:1b,tag:{display:{Name:"{\"text\":\"§9§lSkylord§l
-      §fPickaxe\"}"},Enchantments:[{lvl:3s,id:"minecraft:efficiency"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:diamond_axe",Count:1b,tag:{display:{Name:"{\"text\":\"§9§lSkylord§l
-      §fAxe\"}"},Enchantments:[{lvl:3s,id:"minecraft:efficiency"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:diamond_shovel",Count:1b,tag:{display:{Name:"{\"text\":\"§9§lSkylord§l
-      §fShovel\"}"},Enchantments:[{lvl:3s,id:"minecraft:efficiency"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:diamond_hoe",Count:1b,tag:{display:{Name:"{\"text\":\"§9§lSkylord§l
-      §fHoe\"}"},Enchantments:[{lvl:3s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:diamond_sword",Count:1b,tag:{display:{Name:"{\"text\":\"§9§lSkylord§l
-      §fSword\"}"},Enchantments:[{lvl:3s,id:"minecraft:sharpness"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:fishing_rod",Count:1b,tag:{display:{Name:"{\"text\":\"§9§lSkylord§l
-      §fFishing Rod\"}"},Enchantments:[{lvl:3s,id:"minecraft:luck_of_the_sea"},{lvl:3s,id:"minecraft:lure"},{lvl:2s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:bow",Count:1b,tag:{display:{Name:"{\"text\":\"§9§lSkylord§l
-      §fBow\"}"},Enchantments:[{lvl:3s,id:"minecraft:power"},{lvl:2s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_helmet",Count:1b,tag:{display:{Name:"{\"text\":\"Â§bÂ§lSkylord
+      Â§fHelmet\"}"},Enchantments:[{lvl:2s,id:"minecraft:protection"},{lvl:2s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_chestplate",Count:1b,tag:{display:{Name:"{\"text\":\"Â§bÂ§lSkylord
+      Â§fChestplate\"}"},Enchantments:[{lvl:2s,id:"minecraft:protection"},{lvl:2s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_leggings",Count:1b,tag:{display:{Name:"{\"text\":\"Â§bÂ§lSkylord
+      Â§fLeggings\"}"},Enchantments:[{lvl:2s,id:"minecraft:protection"},{lvl:2s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_boots",Count:1b,tag:{display:{Name:"{\"text\":\"Â§bÂ§lSkylord
+      Â§fBoots\"}"},Enchantments:[{lvl:2s,id:"minecraft:protection"},{lvl:2s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_pickaxe",Count:1b,tag:{display:{Name:"{\"text\":\"Â§bÂ§lSkylord
+      Â§fPickaxe\"}"},Enchantments:[{lvl:3s,id:"minecraft:efficiency"},{lvl:2s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_axe",Count:1b,tag:{display:{Name:"{\"text\":\"Â§bÂ§lSkylord
+      Â§fAxe\"}"},Enchantments:[{lvl:3s,id:"minecraft:efficiency"},{lvl:2s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_shovel",Count:1b,tag:{display:{Name:"{\"text\":\"Â§bÂ§lSkylord
+      Â§fShovel\"}"},Enchantments:[{lvl:3s,id:"minecraft:efficiency"},{lvl:2s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_hoe",Count:1b,tag:{display:{Name:"{\"text\":\"Â§bÂ§lSkylord
+      Â§fHoe\"}"},Enchantments:[{lvl:3s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_sword",Count:1b,tag:{display:{Name:"{\"text\":\"Â§bÂ§lSkylord
+      Â§fSword\"}"},Enchantments:[{lvl:1s,id:"minecraft:fire_aspect"},{lvl:1s,id:"minecraft:looting"},{lvl:3s,id:"minecraft:sharpness"},{lvl:2s,id:"minecraft:sweeping"},{lvl:2s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:fishing_rod",Count:1b,tag:{display:{Name:"{\"text\":\"Â§bÂ§lSkylord
+      Â§fFishing Rod\"}"},Enchantments:[{lvl:3s,id:"minecraft:luck_of_the_sea"},{lvl:3s,id:"minecraft:lure"},{lvl:2s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:bow",Count:1b,tag:{display:{Name:"{\"text\":\"Â§bÂ§lSkylord Â§fBow\"}"},Enchantments:[{lvl:3s,id:"minecraft:power"},{lvl:3s,id:"minecraft:unbreaking"}]}}'
     - '{id:"minecraft:arrow",Count:64b}'
     - '{id:"minecraft:arrow",Count:32b}'
     - '{id:"minecraft:cobblestone",Count:64b}'
@@ -188,34 +210,42 @@ Kits:
     - '{id:"minecraft:grass_block",Count:48b}'
     - '{id:"minecraft:sand",Count:48b}'
     - '{id:"minecraft:cooked_beef",Count:64b}'
+    - '{id:"minecraft:oak_log",Count:48b}'
+    - '{id:"minecraft:gravel",Count:48b}'
+    - '{id:"minecraft:golden_apple",Count:2b}'
+    - '{id:"minecraft:iron_ingot",Count:12b}'
+    - '{id:"minecraft:gold_ingot",Count:6b}'
+    - '{id:"minecraft:diamond",Count:3b}'
   skylegend:
-    delay: 0
+    delay: 604800
+    title: '&4&lS&c&lk&6&ly&e&ll&a&le&b&lg&3&le&5&ln&d&ld'
     price: 0.0
     hidden: false
     animation: NONE
+    displayItem: LIGHT_BLUE_CONCRETE
     items:
-    - '{id:"minecraft:diamond_helmet",Count:1b,tag:{display:{Name:"{\"text\":\"§c§lS§6§lk§e§ly§a§ll§3§lo§5§lr§d§ld
-      §fHelmet\"}"},Enchantments:[{lvl:2s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:diamond_chestplate",Count:1b,tag:{display:{Name:"{\"text\":\"§c§lS§6§lk§e§ly§a§ll§3§lo§5§lr§d§ld
-      §fChestplate\"}"},Enchantments:[{lvl:2s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:diamond_leggings",Count:1b,tag:{display:{Name:"{\"text\":\"§c§lS§6§lk§e§ly§a§ll§3§lo§5§lr§d§ld
-      §fLeggings\"}"},Enchantments:[{lvl:2s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:diamond_boots",Count:1b,tag:{display:{Name:"{\"text\":\"§c§lS§6§lk§e§ly§a§ll§3§lo§5§lr§d§ld
-      §fBoots\"}"},Enchantments:[{lvl:2s,id:"minecraft:protection"},{lvl:1s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:diamond_pickaxe",Count:1b,tag:{display:{Name:"{\"text\":\"§c§lS§6§lk§e§ly§a§ll§3§lo§5§lr§d§ld
-      §fPickaxe\"}"},Enchantments:[{lvl:3s,id:"minecraft:efficiency"},{lvl:2s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:diamond_axe",Count:1b,tag:{display:{Name:"{\"text\":\"§c§lS§6§lk§e§ly§a§ll§3§lo§5§lr§d§ld
-      §fAxe\"}"},Enchantments:[{lvl:3s,id:"minecraft:efficiency"},{lvl:2s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:diamond_shovel",Count:1b,tag:{display:{Name:"{\"text\":\"§c§lS§6§lk§e§ly§a§ll§3§lo§5§lr§d§ld
-      §fShovel\"}"},Enchantments:[{lvl:3s,id:"minecraft:efficiency"},{lvl:2s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:diamond_hoe",Count:1b,tag:{display:{Name:"{\"text\":\"§c§lS§6§lk§e§ly§a§ll§3§lo§5§lr§d§ld
-      §fHoe\"}"},Enchantments:[{lvl:3s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:diamond_sword",Count:1b,tag:{display:{Name:"{\"text\":\"§c§lS§6§lk§e§ly§a§ll§3§lo§5§lr§d§ld
-      §fSword\"}"},Enchantments:[{lvl:3s,id:"minecraft:sharpness"},{lvl:2s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:fishing_rod",Count:1b,tag:{display:{Name:"{\"text\":\"§c§lS§6§lk§e§ly§a§ll§3§lo§5§lr§d§ld
-      §fFishing Rod\"}"},Enchantments:[{lvl:3s,id:"minecraft:luck_of_the_sea"},{lvl:3s,id:"minecraft:lure"},{lvl:3s,id:"minecraft:unbreaking"}]}}'
-    - '{id:"minecraft:bow",Count:1b,tag:{display:{Name:"{\"text\":\"§c§lS§6§lk§e§ly§a§ll§3§lo§5§lr§d§ld
-      §fBow\"}"},Enchantments:[{lvl:3s,id:"minecraft:power"},{lvl:3s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_helmet",Count:1b,tag:{display:{Name:"{\"text\":\"Â§4Â§lSÂ§cÂ§lkÂ§6Â§lyÂ§eÂ§llÂ§aÂ§leÂ§bÂ§lgÂ§3Â§leÂ§5Â§lnÂ§dÂ§ld
+      Â§fÂ§lHelmet\"}"},Enchantments:[{lvl:4s,id:"minecraft:protection"},{lvl:3s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_chestplate",Count:1b,tag:{display:{Name:"{\"text\":\"Â§4Â§lSÂ§cÂ§lkÂ§6Â§lyÂ§eÂ§llÂ§aÂ§leÂ§bÂ§lgÂ§3Â§leÂ§5Â§lnÂ§dÂ§ld
+      Â§fÂ§lChestplate\"}"},Enchantments:[{lvl:4s,id:"minecraft:protection"},{lvl:3s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_leggings",Count:1b,tag:{display:{Name:"{\"text\":\"Â§4Â§lSÂ§cÂ§lkÂ§6Â§lyÂ§eÂ§llÂ§aÂ§leÂ§bÂ§lgÂ§3Â§leÂ§5Â§lnÂ§dÂ§ld
+      Â§fÂ§lLeggings\"}"},Enchantments:[{lvl:4s,id:"minecraft:protection"},{lvl:3s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_boots",Count:1b,tag:{display:{Name:"{\"text\":\"Â§4Â§lSÂ§cÂ§lkÂ§6Â§lyÂ§eÂ§llÂ§aÂ§leÂ§bÂ§lgÂ§3Â§leÂ§5Â§lnÂ§dÂ§ld
+      Â§fÂ§lBoots\"}"},Enchantments:[{lvl:4s,id:"minecraft:protection"},{lvl:3s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_pickaxe",Count:1b,tag:{display:{Name:"{\"text\":\"Â§4Â§lSÂ§cÂ§lkÂ§6Â§lyÂ§eÂ§llÂ§aÂ§leÂ§bÂ§lgÂ§3Â§leÂ§5Â§lnÂ§dÂ§ld
+      Â§fÂ§lPickaxe\"}"},Enchantments:[{lvl:4s,id:"minecraft:efficiency"},{lvl:3s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_axe",Count:1b,tag:{display:{Name:"{\"text\":\"Â§4Â§lSÂ§cÂ§lkÂ§6Â§lyÂ§eÂ§llÂ§aÂ§leÂ§bÂ§lgÂ§3Â§leÂ§5Â§lnÂ§dÂ§ld
+      Â§fÂ§lAxe\"}"},Enchantments:[{lvl:4s,id:"minecraft:efficiency"},{lvl:3s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_shovel",Count:1b,tag:{display:{Name:"{\"text\":\"Â§4Â§lSÂ§cÂ§lkÂ§6Â§lyÂ§eÂ§llÂ§aÂ§leÂ§bÂ§lgÂ§3Â§leÂ§5Â§lnÂ§dÂ§ld
+      Â§fÂ§lShovel\"}"},Enchantments:[{lvl:4s,id:"minecraft:efficiency"},{lvl:3s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_hoe",Count:1b,tag:{display:{Name:"{\"text\":\"Â§4Â§lSÂ§cÂ§lkÂ§6Â§lyÂ§eÂ§llÂ§aÂ§leÂ§bÂ§lgÂ§3Â§leÂ§5Â§lnÂ§dÂ§ld
+      Â§fÂ§lHoe\"}"},Enchantments:[{lvl:3s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:diamond_sword",Count:1b,tag:{display:{Name:"{\"text\":\"Â§4Â§lSÂ§cÂ§lkÂ§6Â§lyÂ§eÂ§llÂ§aÂ§leÂ§bÂ§lgÂ§3Â§leÂ§5Â§lnÂ§dÂ§ld
+      Â§fÂ§lSword\"}"},Enchantments:[{lvl:2s,id:"minecraft:fire_aspect"},{lvl:2s,id:"minecraft:looting"},{lvl:4s,id:"minecraft:sharpness"},{lvl:3s,id:"minecraft:sweeping"},{lvl:3s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:fishing_rod",Count:1b,tag:{display:{Name:"{\"text\":\"Â§4Â§lSÂ§cÂ§lkÂ§6Â§lyÂ§eÂ§llÂ§aÂ§leÂ§bÂ§lgÂ§3Â§leÂ§5Â§lnÂ§dÂ§ld
+      Â§fÂ§lFishing Rod\"}"},Enchantments:[{lvl:3s,id:"minecraft:luck_of_the_sea"},{lvl:3s,id:"minecraft:lure"},{lvl:3s,id:"minecraft:unbreaking"}]}}'
+    - '{id:"minecraft:bow",Count:1b,tag:{display:{Name:"{\"text\":\"Â§4Â§lSÂ§cÂ§lkÂ§6Â§lyÂ§eÂ§llÂ§aÂ§leÂ§bÂ§lgÂ§3Â§leÂ§5Â§lnÂ§dÂ§ld
+      Â§fÂ§lBow\"}"},Enchantments:[{lvl:1s,id:"minecraft:flame"},{lvl:4s,id:"minecraft:power"},{lvl:3s,id:"minecraft:unbreaking"}]}}'
     - '{id:"minecraft:arrow",Count:64b}'
     - '{id:"minecraft:arrow",Count:64b}'
     - '{id:"minecraft:cobblestone",Count:64b}'
@@ -223,3 +253,9 @@ Kits:
     - '{id:"minecraft:grass_block",Count:64b}'
     - '{id:"minecraft:sand",Count:64b}'
     - '{id:"minecraft:cooked_beef",Count:64b}'
+    - '{id:"minecraft:oak_log",Count:64b}'
+    - '{id:"minecraft:gravel",Count:64b}'
+    - '{id:"minecraft:golden_apple",Count:3b}'
+    - '{id:"minecraft:iron_ingot",Count:15b}'
+    - '{id:"minecraft:gold_ingot",Count:9b}'
+    - '{id:"minecraft:diamond",Count:6b}'
