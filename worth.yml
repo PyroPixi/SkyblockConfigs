@@ -15,7 +15,7 @@ worth:
   acaciawood: 0.4
   allium: 0.5
   andesite: 0.2
-  anvil: 310
+  anvil: 46.5
   apple: 1
   armorstand: 0.2
   arrow: 0.2
@@ -23,9 +23,9 @@ worth:
   bakedpotato: 0.2
   beacon: 500
   beef: 0.3
-  beetroot: 0.5
+  beetroot: 0.3
   beetrootseeds: 0.2
-  beetrootsoup: 3.1
+  beetrootsoup: 1.9
   birchboat: 0.5
   birchbutton: 0.1
   birchdoor: 0.1
@@ -91,10 +91,10 @@ worth:
   cake: 1.67
   carrot: 0.2
   carvedpumpkin: 0.1
-  cauldron: 70
+  cauldron: 10.5
   charcoal: 0.4
   chest: 0.8
-  chestminecart: 50.8
+  chestminecart: 8.3
   chicken: 0.2
   chiseledquartzblock: 3
   chiseledredsandstone: 2
@@ -103,7 +103,7 @@ worth:
   chorusfruit: 0.05
   clay: 1
   clayball: 0.25
-  clock: 62.5
+  clock: 12
   coal: 1
   coalblock: 9
   coarsedirt: 0.75
@@ -114,7 +114,7 @@ worth:
   cobweb: 10
   cocoabeans: 0.1
   cod: 5
-  comparator: 8.55
+  comparator: 6.55
   compass: 42.5
   conduit: 125
   cookedbeef: 0.3
@@ -158,24 +158,24 @@ worth:
   darkprismarine: 4.5
   darkprismarineslab: 2.25
   darkprismarinestairs: 4.5
-  daylightdetector: 3.9
+  daylightdetector: 2.25
   diamond: 30
   diorite: 0.2
   dirt: 1
-  dispenser: 3.2
+  dispenser: 2.7
   dragonbreath: 0.5
   dragonegg: 750
   dragonhead: 100
   driedkelp: 0.05
   driedkelpblock: 0.45
-  dropper: 3.2
+  dropper: 2.7
   egg: 0.01
   emerald: 10
   emeraldblock: 90
   endrod: 3
   endstone: 0.1
   endstonebricks: 0.1
-  enderchest: 83.5
+  enderchest: 23.5
   endereye: 0.35
   enderpearl: 0.2
   feather: 0.1
@@ -185,21 +185,21 @@ worth:
   flint: 0.5
   flowerpot: 0.75
   furnace: 0.8
-  furnaceminecart: 50.8
+  furnaceminecart: 8.3
   ghasttear: 5
   glass: 0.5
   glassbottle: 0.5
   glasspane: 0.1875
-  glisteringmelonslice: 13.4
-  glowstone: 3
-  glowstonedust: 0.75
-  goldblock: 135
-  goldingot: 15
-  goldnugget: 1.67
-  goldenapple: 121
+  glisteringmelonslice: 2.3
+  glowstone: 1
+  glowstonedust: 0.25
+  goldblock: 22.5
+  goldingot: 2.5
+  goldnugget: 0.28
+  goldenapple: 21
   granite: 0.2
   grass: 0.1
-  grassblock: 2
+  grassblock: 1.5
   gravel: 0.5
   graybanner: 0.9
   graybed: 0.75
@@ -223,15 +223,14 @@ worth:
   greenterracotta: 1
   greenwool: 0.15
   gunpowder: 0.25
-  hayblock: 4.5
+  hayblock: 2.7
   heartofthesea: 250
-  heavyweightedpressureplate: 20
+  heavyweightedpressureplate: 3
   inksac: 0.5
-  ironbars: 3.75
-  ironblock: 90
-  irondoor: 20
-  ironingot: 10
-  ironnugget: 1
+  ironbars: 0.56
+  ironblock: 13.5
+  irondoor: 3
+  ironingot: 1.5
   irontrapdoor: 40
   itemframe: 0.5
   jackolantern: 1.1
@@ -251,8 +250,8 @@ worth:
   jungletrapdoor: 0.2
   junglewood: 0.4
   kelp: 0.05
-  lapisblock: 22.5
-  lapislazuli: 2.5
+  lapisblock: 13.5
+  lapislazuli: 1.5
   lead: 1.05
   leather: 0.5
   lever: 0.1
@@ -278,7 +277,7 @@ worth:
   lightgraystainedglasspane: 0.1875
   lightgrayterracotta: 1
   lightgraywool: 0.15
-  lightweightedpressureplate: 30
+  lightweightedpressureplate: 5
   lilac: 0.5
   lilypad: 0.75
   limebanner: 0.9
@@ -308,7 +307,7 @@ worth:
   melon: 0.72
   melonseeds: 0.08
   melonslice: 0.08
-  minecart: 50
+  minecart: 7.5
   mossycobblestone: 0.1
   mossycobblestonewall: 0.1
   mossystonebricks: 0.1
@@ -327,7 +326,7 @@ worth:
   musicdiscwait: 10
   musicdiscward: 10
   mutton: 0.2
-  mycelium: 5
+  mycelium: 1.5
   nametag: 20
   nautilusshell: 0.75
   netherbrick: 0.1
@@ -354,8 +353,8 @@ worth:
   oakstairs: 0.1
   oaktrapdoor: 0.2
   oakwood: 0.4
-  observer: 3.75
-  obsidian: 10
+  observer: 2.25
+  obsidian: 2.5
   orangebanner: 0.9
   orangebed: 0.75
   orangecarpet: 0.1
@@ -385,14 +384,14 @@ worth:
   pinkterracotta: 1
   pinktulip: 0.5
   pinkwool: 0.15
-  piston: 13.2
+  piston: 12.7
   podzol: 1.5
   poisonouspotato: 1
   polishedandesite: 0.2
   polisheddiorite: 0.2
   polishedgranite: 0.2
   poppedchorusfruit: 0.06
-  poppy: 0.25
+  poppy: 0.05
   porkchop: 0.1
   potato: 0.2
   prismarine: 2
@@ -422,11 +421,11 @@ worth:
   purpurpillar: 0.2
   purpurslab: 0.1
   purpurstairs: 0.2
-  quartz: 0.75
-  quartzblock: 3
-  quartzpillar: 3
-  quartzslab: 1.5
-  quartzstairs: 3
+  quartz: 0.25
+  quartzblock: 1
+  quartzpillar: 1
+  quartzslab: 0.5
+  quartzstairs: 1
   rabbit: 0.2
   rabbitfoot: 2
   rabbithide: 0.75
@@ -449,11 +448,11 @@ worth:
   redterracotta: 1
   redtulip: 0.5
   redwool: 0.15
-  redstone: 2.5
-  redstoneblock: 22.5
-  redstonelamp: 13
-  redstonetorch: 2.5
-  repeater: 7.8
+  redstone: 2
+  redstoneblock: 18
+  redstonelamp: 9
+  redstonetorch: 2
+  repeater: 6.3
   rosebush: 0.5
   rosered: 0.1
   rottenflesh: 0.1
@@ -466,7 +465,7 @@ worth:
   sealantern: 2
   seapickle: 0.5
   seagrass: 0.05
-  shulkershell: 40
+  shulkershell: 10
   sign: 0.5
   skeletonskull: 25
   slimeball: 1.5
@@ -493,7 +492,7 @@ worth:
   sprucetrapdoor: 0.2
   sprucewood: 0.4
   stick: 0.05
-  stickypiston: 14.7
+  stickypiston: 14.2
   stone: 0.1
   stonebrickslab: 0.05
   stonebrickstairs: 0.1
@@ -513,14 +512,14 @@ worth:
   sunflower: 0.5
   terracotta: 1
   tnt: 4.5
-  tntminecart: 54.5
+  tntminecart: 11.5
   torch: 1
   totemofundying: 400
   trappedchest: 10.8
-  tripwirehook: 10
+  tripwirehook: 3
   tropicalfish: 5
-  vine: 0.3
-  wheat: 0.5
+  vine: 0.15
+  wheat: 0.3
   wheatseeds: 0.2
   whitebanner: 0.9
   whitebed: 0.75
