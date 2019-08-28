@@ -39,7 +39,7 @@
   "takeExperience": false,
   "requiredMoney": 0,
   "takeMoney": false,
-  "requiredIslandLevel": 10000,
+  "requiredIslandLevel": 0,
   "searchRadius": 10,
   "rewardText": "Get some extra Diamonds and some Shulker Boxes!",
   "rewardItems": [
