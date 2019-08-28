@@ -43,7 +43,7 @@
   "rewardCommands": [],
   "repeatable": true,
   "repeatRewardText": "Exchange your Iron Tools for a Diamond.",
-  "maxTimes": 100,
+  "maxTimes": 0,
   "repeatExperienceReward": 5,
   "repeatItemReward": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: DIAMOND\n"
