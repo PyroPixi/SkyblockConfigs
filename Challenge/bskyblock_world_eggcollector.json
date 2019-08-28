@@ -35,7 +35,7 @@
   "rewardCommands": [],
   "repeatable": true,
   "repeatRewardText": "Exchange eggs for some Iron.",
-  "maxTimes": 100,
+  "maxTimes": 0,
   "repeatExperienceReward": 5,
   "repeatItemReward": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: IRON_ORE\n"
