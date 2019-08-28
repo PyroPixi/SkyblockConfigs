@@ -3,7 +3,7 @@
   "friendlyName": "Visit the End",
   "deployed": true,
   "description": [
-    "Is there something even after the end?"
+    "Is there something even after The End?"
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: END_STONE\n",
   "order": 3,
@@ -28,7 +28,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 0,
   "searchRadius": 20,
-  "rewardText": "Some diaond and elytra for your efforts.",
+  "rewardText": "Some Diamond and an Elytra for your efforts.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: DIAMOND_ORE\n  amount: 16\n",
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: ELYTRA\n"

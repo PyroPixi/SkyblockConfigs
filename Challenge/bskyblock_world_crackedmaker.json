@@ -1,9 +1,9 @@
 {
   "uniqueId": "bskyblock_world_crackedmaker",
-  "friendlyName": "Cracked stone bricks",
+  "friendlyName": "Cracked Stone Bricks",
   "deployed": true,
   "description": [
-    "Smelt some bricks to get cracked briks."
+    "Smelt some Stone Bricks to get Cracked Stone Bricks."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: CRACKED_STONE_BRICKS\n",
   "order": 4,
@@ -26,7 +26,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 0,
   "searchRadius": 10,
-  "rewardText": "Magic transformed these bricks into diorite.",
+  "rewardText": "Magic transformed these bricks into Diorite!",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: DIORITE\n  amount: 4\n"
   ],
@@ -34,7 +34,7 @@
   "rewardMoney": 0,
   "rewardCommands": [],
   "repeatable": true,
-  "repeatRewardText": "Magic transformed these bricks into diorite.",
+  "repeatRewardText": "Magic transformed these bricks into Diorite!",
   "maxTimes": 0,
   "repeatExperienceReward": 5,
   "repeatItemReward": [

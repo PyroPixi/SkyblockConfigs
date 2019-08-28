@@ -3,7 +3,7 @@
   "friendlyName": "Logs Exchange",
   "deployed": true,
   "description": [
-    "Cut trees and collect some logs"
+    "Cut trees and collect some logs."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: OAK_LOG\n",
   "order": 4,
@@ -26,7 +26,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 0,
   "searchRadius": 10,
-  "rewardText": "Change your logs for some clay",
+  "rewardText": "Exchange your Logs for some Clay.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: CLAY\n  amount: 4\n"
   ],
@@ -34,7 +34,7 @@
   "rewardMoney": 0,
   "rewardCommands": [],
   "repeatable": true,
-  "repeatRewardText": "Change your logs for some clay balls",
+  "repeatRewardText": "Exchange your Logs for some Clay Balls.",
   "maxTimes": 0,
   "repeatExperienceReward": 5,
   "repeatItemReward": [

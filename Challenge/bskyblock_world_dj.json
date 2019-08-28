@@ -3,7 +3,7 @@
   "friendlyName": "DJ",
   "deployed": true,
   "description": [
-    "Craft a jukebox and collect all music discs"
+    "Craft a Jukebox and collect all music discs."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: MUSIC_DISC_CHIRP\n",
   "order": 2,
@@ -38,7 +38,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 0,
   "searchRadius": 10,
-  "rewardText": "Some diamonds and emeralds for your disks",
+  "rewardText": "Some Diamonds and Emeralds for your discs.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: DIAMOND\n  amount: 3\n",
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: EMERALD\n  amount: 10\n",
@@ -48,7 +48,7 @@
   "rewardMoney": 0,
   "rewardCommands": [],
   "repeatable": true,
-  "repeatRewardText": "Diamond and some emeralds for your disks",
+  "repeatRewardText": "Diamond and some Emeralds for your discs.",
   "maxTimes": 100,
   "repeatExperienceReward": 5,
   "repeatItemReward": [

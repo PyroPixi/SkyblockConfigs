@@ -1,9 +1,9 @@
 {
   "uniqueId": "bskyblock_world_chisedmaker",
-  "friendlyName": "Chiseled stone bricks crafter",
+  "friendlyName": "Chiseled Stone Bricks Crafter",
   "deployed": true,
   "description": [
-    "Smelt some stone and craft some chiseled stone bricks"
+    "Smelt some Stone and craft some Chiseled Stone Bricks."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: CHISELED_STONE_BRICKS\n",
   "order": 4,
@@ -26,7 +26,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 0,
   "searchRadius": 10,
-  "rewardText": "Magic transformed these bricks into andesite",
+  "rewardText": "Magic transformed these bricks into Andesite!",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: ANDESITE\n  amount: 4\n"
   ],
@@ -34,7 +34,7 @@
   "rewardMoney": 0,
   "rewardCommands": [],
   "repeatable": true,
-  "repeatRewardText": "Magic transformed these bricks into andesite",
+  "repeatRewardText": "Magic transformed these bricks into Andesite!",
   "maxTimes": 0,
   "repeatExperienceReward": 5,
   "repeatItemReward": [

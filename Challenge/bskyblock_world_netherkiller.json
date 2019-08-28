@@ -3,7 +3,7 @@
   "friendlyName": "Water Zoo",
   "deployed": true,
   "description": [
-    "Create water animal zoo"
+    "Create a water animal zoo!"
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: BLUE_STAINED_GLASS_PANE\n",
   "order": 7,
@@ -34,7 +34,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 10000,
   "searchRadius": 20,
-  "rewardText": "Get some extra diamonds and some shulker boxes",
+  "rewardText": "Get some extra Diamonds and some Shulker Boxes.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: DIAMOND\n  amount: 16\n",
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: SHULKER_BOX\n  amount: 2\n"

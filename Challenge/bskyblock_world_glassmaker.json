@@ -1,9 +1,9 @@
 {
   "uniqueId": "bskyblock_world_glassmaker",
-  "friendlyName": "Glass maker",
+  "friendlyName": "Glass Maker",
   "deployed": true,
   "description": [
-    "Craft and collect all colors of glass"
+    "Craft and collect all colors of glass!"
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: GLASS\n",
   "order": 4,
@@ -41,7 +41,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 0,
   "searchRadius": 10,
-  "rewardText": "Exchange your glass to shulker box",
+  "rewardText": "Exchange your glass for a Shulker Box.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: SHULKER_BOX\n"
   ],
@@ -49,8 +49,8 @@
   "rewardMoney": 0,
   "rewardCommands": [],
   "repeatable": true,
-  "repeatRewardText": "Exchange your glass to shulker shell",
-  "maxTimes": 100,
+  "repeatRewardText": "Exchange your glass for a Shulker Shell.",
+  "maxTimes": 0,
   "repeatExperienceReward": 5,
   "repeatItemReward": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: SHULKER_SHELL\n"

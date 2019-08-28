@@ -3,7 +3,7 @@
   "friendlyName": "Grinder",
   "deployed": true,
   "description": [
-    "Use your mobfarm to collest mob drops"
+    "Use your mob farm to collest mob drops."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: BONE\n",
   "order": 4,
@@ -41,7 +41,7 @@
   "rewardMoney": 0,
   "rewardCommands": [],
   "repeatable": true,
-  "repeatRewardText": "Some prismarine crystals",
+  "repeatRewardText": "Some Prismarine Crystals.",
   "maxTimes": 0,
   "repeatExperienceReward": 5,
   "repeatItemReward": [

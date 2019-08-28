@@ -3,7 +3,7 @@
   "friendlyName": "Hostile Zoo",
   "deployed": true,
   "description": [
-    "Create hostime mob zoo"
+    "Create a hostile mob zoo!"
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: IRON_BARS\n",
   "order": 6,
@@ -41,7 +41,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 10000,
   "searchRadius": 10,
-  "rewardText": "Get some extra diamonds and some shulker boxes",
+  "rewardText": "Get some extra Diamonds and some Shulker Boxes!",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: DIAMOND\n  amount: 32\n",
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: SHULKER_BOX\n  amount: 5\n"

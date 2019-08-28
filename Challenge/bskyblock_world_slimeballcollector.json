@@ -1,9 +1,9 @@
 {
   "uniqueId": "bskyblock_world_slimeballcollector",
-  "friendlyName": "Slimeball collector",
+  "friendlyName": "Slimeball Collector",
   "deployed": true,
   "description": [
-    "Kill slimes and collect their slime balls"
+    "Kill Slimes and collect their Slimeballs."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: SLIME_BALL\n",
   "order": 3,
@@ -26,7 +26,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 0,
   "searchRadius": 10,
-  "rewardText": "These saplings will help you to get more trees",
+  "rewardText": "This Redstone will help in creating some machines!",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: REDSTONE\n  amount: 27\n"
   ],
@@ -34,8 +34,8 @@
   "rewardMoney": 0,
   "rewardCommands": [],
   "repeatable": true,
-  "repeatRewardText": "These saplings will help you to get more trees",
-  "maxTimes": 100,
+  "repeatRewardText": "This Redstone will help in creating some machines!",
+  "maxTimes": 0,
   "repeatExperienceReward": 5,
   "repeatItemReward": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: REDSTONE\n  amount: 9\n"

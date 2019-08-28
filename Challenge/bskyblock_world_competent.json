@@ -3,7 +3,7 @@
   "friendlyName": "Compenent Island",
   "deployed": true,
   "description": [
-    "Reach 20th level of island."
+    "Reach Level 20 on your island."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: YELLOW_CONCRETE\n",
   "order": 5,
@@ -24,7 +24,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 20,
   "searchRadius": 10,
-  "rewardText": "Now you can create nether portal",
+  "rewardText": "Now you can create a Nether Portal.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: OBSIDIAN\n  amount: 10\n"
   ],

@@ -3,7 +3,7 @@
   "friendlyName": "Angler",
   "deployed": true,
   "description": [
-    "Catch some salmon"
+    "Catch some Salmon!"
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: SALMON\n",
   "order": 4,
@@ -26,7 +26,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 0,
   "searchRadius": 10,
-  "rewardText": "Some prismarine crystals and kelp",
+  "rewardText": "Some Prismarine Crystals and Kelp.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: PRISMARINE_CRYSTALS\n  amount: 16\n",
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: KELP\n  amount: 4\n"
@@ -35,7 +35,7 @@
   "rewardMoney": 0,
   "rewardCommands": [],
   "repeatable": true,
-  "repeatRewardText": "Some prismarine crystals",
+  "repeatRewardText": "Some Prismarine Crystals.",
   "maxTimes": 0,
   "repeatExperienceReward": 5,
   "repeatItemReward": [

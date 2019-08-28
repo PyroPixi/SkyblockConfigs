@@ -3,7 +3,7 @@
   "friendlyName": "Expert Island",
   "deployed": true,
   "description": [
-    "Reach 100th level of island."
+    "Reach Level 100 on your island."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: GREEN_CONCRETE\n",
   "order": 6,
@@ -24,7 +24,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 100,
   "searchRadius": 10,
-  "rewardText": "Get some extra diamonds",
+  "rewardText": "Get some extra Diamonds!",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: DIAMOND\n  amount: 10\n"
   ],

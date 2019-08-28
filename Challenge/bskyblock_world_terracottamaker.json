@@ -1,9 +1,9 @@
 {
   "uniqueId": "bskyblock_world_terracottamaker",
-  "friendlyName": "Terracotta maker",
+  "friendlyName": "Terracotta Maker",
   "deployed": true,
   "description": [
-    "Smelt some clay into terracotta"
+    "Smelt some Clay into Terracotta."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: TERRACOTTA\n",
   "order": 4,
@@ -41,7 +41,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 0,
   "searchRadius": 10,
-  "rewardText": "Exchange your terracotta to shulker box",
+  "rewardText": "Exchange your Terracotta for a Shulker Box.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: SHULKER_BOX\n"
   ],
@@ -49,8 +49,8 @@
   "rewardMoney": 0,
   "rewardCommands": [],
   "repeatable": true,
-  "repeatRewardText": "Exchange your terracotta to shulker shell",
-  "maxTimes": 100,
+  "repeatRewardText": "Exchange your Terracotta for a Shulker Shell.",
+  "maxTimes": 0,
   "repeatExperienceReward": 5,
   "repeatItemReward": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: SHULKER_SHELL\n"

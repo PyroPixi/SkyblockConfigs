@@ -3,7 +3,7 @@
   "friendlyName": "Wool Collector",
   "deployed": true,
   "description": [
-    "Collect all colors of wool."
+    "Collect all the colors of wool."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: WHITE_WOOL\n",
   "order": 2,
@@ -41,7 +41,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 0,
   "searchRadius": 10,
-  "rewardText": "Get some handy items for your wool",
+  "rewardText": "Get some handy items for your wool.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: DIAMOND\n  amount: 2\n",
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: MUSIC_DISC_CAT\n",
@@ -54,7 +54,7 @@
   "rewardMoney": 10,
   "rewardCommands": [],
   "repeatable": true,
-  "repeatRewardText": "",
+  "repeatRewardText": "Get some Emerald and Sheep for your wool.",
   "maxTimes": 0,
   "repeatExperienceReward": 5,
   "repeatItemReward": [

@@ -3,7 +3,7 @@
   "friendlyName": "Advanced Island",
   "deployed": true,
   "description": [
-    "Reach 500th level of island."
+    "Reach Level 500 on your island."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: BLUE_CONCRETE\n",
   "order": 10,
@@ -24,7 +24,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 500,
   "searchRadius": 10,
-  "rewardText": "Get some extra diamonds and some shulker shells",
+  "rewardText": "Get some extra Diamonds and some Shulker Shells.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: DIAMOND\n  amount: 20\n",
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: SHULKER_SHELL\n  amount: 5\n"

@@ -3,7 +3,7 @@
   "friendlyName": "Trader",
   "deployed": true,
   "description": [
-    "Use your slaves to get some gems"
+    "Use your Villagers to get some Emeralds."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: EMERALD\n",
   "order": 4,
@@ -26,7 +26,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 0,
   "searchRadius": 10,
-  "rewardText": "Exchange your emeralds to some diamond",
+  "rewardText": "Exchange your Emeralds for some Diamonds.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: DIAMOND\n  amount: 4\n"
   ],
@@ -34,8 +34,8 @@
   "rewardMoney": 0,
   "rewardCommands": [],
   "repeatable": true,
-  "repeatRewardText": "Exchange your emeralds to diamond",
-  "maxTimes": 100,
+  "repeatRewardText": "Exchange your Emeralds for a Diamond.",
+  "maxTimes": 1000,
   "repeatExperienceReward": 5,
   "repeatItemReward": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: DIAMOND\n"

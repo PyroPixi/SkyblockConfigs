@@ -3,7 +3,7 @@
   "friendlyName": "Ice Farmer",
   "deployed": true,
   "description": [
-    "Collect some ice"
+    "Collect some Ice."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: ICE\n",
   "order": 3,
@@ -27,7 +27,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 10000,
   "searchRadius": 10,
-  "rewardText": "Get some extra diamonds and some shulker boxes|",
+  "rewardText": "Get some extra Diamonds and some Shulker Boxes|",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: DIAMOND\n  amount: 16\n",
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: SHULKER_BOX\n  amount: 2\n"
@@ -36,7 +36,7 @@
   "rewardMoney": 0,
   "rewardCommands": [],
   "repeatable": true,
-  "repeatRewardText": "Get some extra diamonds|",
+  "repeatRewardText": "Get some extra Diamonds|",
   "maxTimes": 0,
   "repeatExperienceReward": 0,
   "repeatItemReward": [

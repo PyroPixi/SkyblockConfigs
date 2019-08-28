@@ -3,7 +3,7 @@
   "friendlyName": "Iron Age",
   "deployed": true,
   "description": [
-    "Craft Iron Tools and Armor"
+    "Craft Iron Tools and Armor."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: IRON_INGOT\n",
   "order": 4,
@@ -34,7 +34,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 0,
   "searchRadius": 10,
-  "rewardText": "Exchange your iron stuff to some diamond",
+  "rewardText": "Exchange your Iron Tools for some Diamonds.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: DIAMOND\n  amount: 4\n"
   ],
@@ -42,7 +42,7 @@
   "rewardMoney": 0,
   "rewardCommands": [],
   "repeatable": true,
-  "repeatRewardText": "Exchange your iron stuff to diamond",
+  "repeatRewardText": "Exchange your Iron Tools for a Diamond.",
   "maxTimes": 100,
   "repeatExperienceReward": 5,
   "repeatItemReward": [

@@ -3,7 +3,7 @@
   "friendlyName": "Alchemist",
   "deployed": true,
   "description": [
-    "Brew some potions"
+    "Brew some potions."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: BREWING_STAND\n",
   "order": 1,
@@ -39,7 +39,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 0,
   "searchRadius": 10,
-  "rewardText": "There are never too much diamonds",
+  "rewardText": "There are never too many diamonds.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: DIAMOND_ORE\n  amount: 4\n"
   ],
@@ -47,7 +47,7 @@
   "rewardMoney": 0,
   "rewardCommands": [],
   "repeatable": true,
-  "repeatRewardText": "",
+  "repeatRewardText": "Some Diamond Ore for your efforts.",
   "maxTimes": 0,
   "repeatExperienceReward": 5,
   "repeatItemReward": [

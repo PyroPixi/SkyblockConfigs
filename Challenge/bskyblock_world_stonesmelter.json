@@ -1,9 +1,9 @@
 {
   "uniqueId": "bskyblock_world_stonesmelter",
-  "friendlyName": "Stone brick maker",
+  "friendlyName": "Stone Brick Maker",
   "deployed": true,
   "description": [
-    "Smelt some stone and craft some stone bricks"
+    "Smelt some Stone and craft some Stone Bricks."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: STONE_BRICKS\n",
   "order": 4,
@@ -26,7 +26,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 0,
   "searchRadius": 10,
-  "rewardText": "Magic transformed these bricks into granite",
+  "rewardText": "Magic transformed these Stone Bricks into Granite.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: GRANITE\n  amount: 4\n"
   ],
@@ -34,7 +34,7 @@
   "rewardMoney": 0,
   "rewardCommands": [],
   "repeatable": true,
-  "repeatRewardText": "Magic transformed these bricks into granite",
+  "repeatRewardText": "Magic transformed these Stone Bricks into Granite.",
   "maxTimes": 0,
   "repeatExperienceReward": 5,
   "repeatItemReward": [

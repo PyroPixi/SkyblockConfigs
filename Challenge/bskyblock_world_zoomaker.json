@@ -3,7 +3,7 @@
   "friendlyName": "Zoo Maker",
   "deployed": true,
   "description": [
-    "Create a peacefull mob zoo"
+    "Create a peaceful mob zoo."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: GLASS_PANE\n",
   "order": 7,
@@ -42,7 +42,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 10000,
   "searchRadius": 20,
-  "rewardText": "Get some extra diamonds and some shulker boxes",
+  "rewardText": "Get some extra Diamonds and some Shulker Boxes.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: DIAMOND\n  amount: 32\n",
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: SHULKER_BOX\n  amount: 2\n"

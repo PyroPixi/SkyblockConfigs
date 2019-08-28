@@ -1,9 +1,9 @@
 {
   "uniqueId": "bskyblock_world_cheff",
-  "friendlyName": "Cheff",
+  "friendlyName": "Chef",
   "deployed": true,
   "description": [
-    "Show your ability to cook all types of food"
+    "Show your ability to cook all types of food!"
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: CAKE\n",
   "order": 6,
@@ -41,7 +41,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 10000,
   "searchRadius": 10,
-  "rewardText": "Get some extra diamonds and some shulker boxes",
+  "rewardText": "Get some extra Diamonds and some Shulker Boxes!",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: DIAMOND\n  amount: 16\n",
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: SHULKER_BOX\n  amount: 2\n"
@@ -50,8 +50,8 @@
   "rewardMoney": 0,
   "rewardCommands": [],
   "repeatable": true,
-  "repeatRewardText": "Some diamond ore for your food|",
-  "maxTimes": 100,
+  "repeatRewardText": "Some Diamond Ore for your food!",
+  "maxTimes": 0,
   "repeatExperienceReward": 0,
   "repeatItemReward": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: DIAMOND_ORE\n  amount: 4\n"

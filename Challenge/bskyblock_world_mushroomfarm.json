@@ -1,9 +1,9 @@
 {
   "uniqueId": "bskyblock_world_mushroomfarm",
-  "friendlyName": "Mushroom farm",
+  "friendlyName": "Mushroom Farm",
   "deployed": true,
   "description": [
-    "Create simple mushroom farm"
+    "Create a simple Mushroom farm."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: BROWN_MUSHROOM\n",
   "order": 2,
@@ -27,7 +27,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 0,
   "searchRadius": 10,
-  "rewardText": "This mycelium will help you with collecting mushrooms faster.",
+  "rewardText": "This Mycelium will help you with collecting Mushrooms faster.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: MYCELIUM\n"
   ],

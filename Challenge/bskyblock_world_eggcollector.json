@@ -3,7 +3,7 @@
   "friendlyName": "Egg Collector",
   "deployed": true,
   "description": [
-    "Create Chicken farm and collect their eggs."
+    "Create a Chicken farm and collect their eggs."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: EGG\n",
   "order": 2,
@@ -26,7 +26,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 0,
   "searchRadius": 10,
-  "rewardText": "Exchange eggs for some iron",
+  "rewardText": "Exchange eggs for some Iron.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: IRON_ORE\n  amount: 24\n"
   ],
@@ -34,7 +34,7 @@
   "rewardMoney": 0,
   "rewardCommands": [],
   "repeatable": true,
-  "repeatRewardText": "Exchange eggs for some iron",
+  "repeatRewardText": "Exchange eggs for some Iron.",
   "maxTimes": 100,
   "repeatExperienceReward": 5,
   "repeatItemReward": [

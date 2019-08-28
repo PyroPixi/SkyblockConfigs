@@ -1,9 +1,9 @@
 {
   "uniqueId": "bskyblock_world_milkcollector",
-  "friendlyName": "Milk your cows",
+  "friendlyName": "Milk Your Cows",
   "deployed": true,
   "description": [
-    "Create some buckets and milk your cows"
+    "Create some Buckets and milk your cows."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: MILK_BUCKET\n",
   "order": 2,
@@ -26,7 +26,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 0,
   "searchRadius": 10,
-  "rewardText": "Exchange milk to mooshrooms",
+  "rewardText": "Exchange Milk for Mooshrooms.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: BUCKET\n  amount: 9\n",
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: MOOSHROOM_SPAWN_EGG\n  amount: 2\n"
@@ -35,7 +35,7 @@
   "rewardMoney": 0,
   "rewardCommands": [],
   "repeatable": true,
-  "repeatRewardText": "Exchange milk to some iron",
+  "repeatRewardText": "Exchange Milk for some Iron.",
   "maxTimes": 100,
   "repeatExperienceReward": 5,
   "repeatItemReward": [

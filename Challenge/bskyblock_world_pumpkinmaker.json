@@ -1,9 +1,9 @@
 {
   "uniqueId": "bskyblock_world_pumpkinmaker",
-  "friendlyName": "Pumpkin collector",
+  "friendlyName": "Pumpkin Collector",
   "deployed": true,
   "description": [
-    "Grow and collect some pumpkin"
+    "Grow and collect some Pumpkin."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: PUMPKIN\n",
   "order": 3,
@@ -26,7 +26,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 0,
   "searchRadius": 10,
-  "rewardText": "Magic transformed collected pumpkins into some clay blocks",
+  "rewardText": "Magic transformed the collected Pumpkins into some Clay Blocks.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: CLAY\n  amount: 4\n"
   ],
@@ -34,7 +34,7 @@
   "rewardMoney": 0,
   "rewardCommands": [],
   "repeatable": true,
-  "repeatRewardText": "Magic transformed collected pumpkins into some clay balls",
+  "repeatRewardText": "Magic transformed the collected Pumpkins into some Clay Balls.",
   "maxTimes": 0,
   "repeatExperienceReward": 5,
   "repeatItemReward": [

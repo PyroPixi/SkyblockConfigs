@@ -1,9 +1,9 @@
 {
   "uniqueId": "bskyblock_world_sugarcanefarm",
-  "friendlyName": "Sugarcane farm",
+  "friendlyName": "Sugar Cane Farm",
   "deployed": true,
   "description": [
-    "Create simple sugarcane farm"
+    "Create a simple Sugar Cane farm."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: SUGAR_CANE\n",
   "order": 2,
@@ -26,7 +26,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 0,
   "searchRadius": 10,
-  "rewardText": "This sand will allow to increase your farm size.",
+  "rewardText": "This Sand will allow you to increase your farm size.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: SAND\n  amount: 16\n"
   ],

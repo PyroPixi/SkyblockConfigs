@@ -1,9 +1,9 @@
 {
   "uniqueId": "bskyblock_world_treefarm",
-  "friendlyName": "Tree farm",
+  "friendlyName": "Tree Farm",
   "deployed": true,
   "description": [
-    "Create simple tree farm"
+    "Create a simple tree farm."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: OAK_SAPLING\n",
   "order": 2,
@@ -26,7 +26,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 0,
   "searchRadius": 20,
-  "rewardText": "Extra dirt will always be handy",
+  "rewardText": "Extra dirt will always be handy.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: DIRT\n  amount: 10\n"
   ],

@@ -3,7 +3,7 @@
   "friendlyName": "Fisherman",
   "deployed": true,
   "description": [
-    "Catch some cod"
+    "Catch some cod."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: COD\n",
   "order": 4,
@@ -26,7 +26,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 0,
   "searchRadius": 10,
-  "rewardText": "Some prismarine shards and sea pickles",
+  "rewardText": "Some Prismarine Shards and Sea Pickles.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: PRISMARINE_SHARD\n  amount: 16\n",
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: SEA_PICKLE\n  amount: 4\n"
@@ -35,7 +35,7 @@
   "rewardMoney": 0,
   "rewardCommands": [],
   "repeatable": true,
-  "repeatRewardText": "Some prismarine shards",
+  "repeatRewardText": "Some Prismarine Shards.",
   "maxTimes": 0,
   "repeatExperienceReward": 5,
   "repeatItemReward": [

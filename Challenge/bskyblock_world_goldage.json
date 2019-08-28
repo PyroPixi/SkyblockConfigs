@@ -3,7 +3,7 @@
   "friendlyName": "Gold Age",
   "deployed": true,
   "description": [
-    "Craft Gold Tools and Armor"
+    "Craft Gold Tools and Armor."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: GOLD_INGOT\n",
   "order": 4,
@@ -34,7 +34,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 0,
   "searchRadius": 10,
-  "rewardText": "Exchange your gold stuff to some diamond",
+  "rewardText": "Exchange your Gold Tools for some Diamonds.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: DIAMOND\n  amount: 16\n"
   ],
@@ -42,8 +42,8 @@
   "rewardMoney": 0,
   "rewardCommands": [],
   "repeatable": true,
-  "repeatRewardText": "Exchange your gold stuff to diamond",
-  "maxTimes": 100,
+  "repeatRewardText": "Exchange your Gold Tools for a Diamond.",
+  "maxTimes": 0,
   "repeatExperienceReward": 5,
   "repeatItemReward": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: DIAMOND\n"

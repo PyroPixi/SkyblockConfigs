@@ -1,9 +1,9 @@
 {
   "uniqueId": "bskyblock_world_cactusfarm",
-  "friendlyName": "Cactus farm",
+  "friendlyName": "Cactus Farm",
   "deployed": true,
   "description": [
-    "Create simple Cactus farm"
+    "Create a simple Cactus farm."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: CACTUS\n",
   "order": 2,
@@ -26,7 +26,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 0,
   "searchRadius": 10,
-  "rewardText": "Extra sand will always be handy",
+  "rewardText": "Extra sand will always be handy.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: SAND\n  amount: 10\n"
   ],

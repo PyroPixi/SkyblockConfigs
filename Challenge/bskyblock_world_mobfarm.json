@@ -1,9 +1,9 @@
 {
   "uniqueId": "bskyblock_world_mobfarm",
-  "friendlyName": "Mob farm",
+  "friendlyName": "Mob Farm",
   "deployed": true,
   "description": [
-    "Create dark place and spawn some hostile mobs."
+    "Create a dark place and spawn some hostile mobs."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: STONE\n",
   "order": 2,
@@ -29,7 +29,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 0,
   "searchRadius": 20,
-  "rewardText": "Iron for item crafting and some dogs.",
+  "rewardText": "Iron Ore some dogs.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: IRON_ORE\n  amount: 16\n",
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: WOLF_SPAWN_EGG\n  amount: 2\n"

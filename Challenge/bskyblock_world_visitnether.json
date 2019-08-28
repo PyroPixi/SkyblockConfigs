@@ -1,9 +1,9 @@
 {
   "uniqueId": "bskyblock_world_visitnether",
-  "friendlyName": "Visit nether",
+  "friendlyName": "Visit The Nether",
   "deployed": true,
   "description": [
-    "Nether is a horrible place, but it has some useful stuff."
+    "The Nether is a horrible place, but it has some useful stuff."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: NETHERRACK\n",
   "order": 3,
@@ -28,7 +28,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 0,
   "searchRadius": 20,
-  "rewardText": "Some iron and lapis for your efforts.",
+  "rewardText": "Some Iron Ore and Lapis Blocks for your efforts.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: IRON_ORE\n  amount: 16\n",
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: LAPIS_BLOCK\n  amount: 3\n"

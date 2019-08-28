@@ -3,7 +3,7 @@
   "friendlyName": "Diamond Age",
   "deployed": true,
   "description": [
-    "Craft Diamond Tools and Armor"
+    "Craft Diamond Tools and Armor."
   ],
   "icon": "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: DIAMOND\n",
   "order": 4,
@@ -34,7 +34,7 @@
   "takeMoney": false,
   "requiredIslandLevel": 0,
   "searchRadius": 10,
-  "rewardText": "Exchange your diamond stuff to some shulker boxes",
+  "rewardText": "Exchange your Diamond Tools for some Shulker Boxes.",
   "rewardItems": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: SHULKER_BOX\n  amount: 3\n"
   ],
@@ -42,8 +42,8 @@
   "rewardMoney": 0,
   "rewardCommands": [],
   "repeatable": true,
-  "repeatRewardText": "Exchange your diamond stuff to shulker shell",
-  "maxTimes": 100,
+  "repeatRewardText": "Exchange your Diamond Tools for Shulker Shells.",
+  "maxTimes": 0,
   "repeatExperienceReward": 5,
   "repeatItemReward": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: SHULKER_SHELL\n"
