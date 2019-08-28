@@ -49,7 +49,7 @@
   "rewardCommands": [],
   "repeatable": true,
   "repeatRewardText": "Diamond and some Emeralds for your discs.",
-  "maxTimes": 100,
+  "maxTimes": 0,
   "repeatExperienceReward": 5,
   "repeatItemReward": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: DIAMOND\n",
