@@ -46,7 +46,7 @@
   "rewardCommands": [],
   "repeatable": true,
   "repeatRewardText": "",
-  "maxTimes": 100,
+  "maxTimes": 0,
   "repeatExperienceReward": 0,
   "repeatItemReward": [
     "is:\n  ==: org.bukkit.inventory.ItemStack\n  v: 1631\n  type: DIAMOND\n  amount: 4\n"
